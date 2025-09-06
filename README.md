@@ -1,8 +1,3 @@
-Punto 1.1 -> Scripts/ranking_customers.ts
-Punto 1.2 -> Scripts/trasport_route_management.ts -> Scripts/explanation_item_1.2.md
-Punto 2 -> Scripts/item_2_data_structures.md
-Punto 3 -> Api
-
 # Backend Developer Senior - Soluciones Completas
 
 Este repositorio contiene las soluciones completas para la prueba de Backend Developer Senior, implementando estructuras de datos eficientes y arquitecturas de sistemas distribuidos.
