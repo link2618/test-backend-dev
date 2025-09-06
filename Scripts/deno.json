@@ -1,0 +1,10 @@
+{
+  "tasks": {
+    "1.1": "deno run --allow-all --watch ranking_customers.ts",
+    "1.1-large": "deno run --allow-all --v8-flags=--max-old-space-size=8192 ranking_customers.ts --large-dataset",
+    "1.2": "deno run --allow-all --watch transport_route_management.ts"
+  },
+  "imports": {
+    "@std/assert": "jsr:@std/assert@1"
+  }
+}
