@@ -50,7 +50,9 @@ deno task 1.1
 deno task 1.2
 
 # Levantar API (desde directorio Api/)
+cd Api
 npm install
+cp env.example .env
 npm start
 ```
 
